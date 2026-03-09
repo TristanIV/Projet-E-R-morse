@@ -5580,6 +5580,19 @@
 		(layer "Edge.Cuts")
 		(uuid "f8fff396-afc8-4a02-8311-a8a5514d43f0")
 	)
+	(gr_text "Recepteur"
+		(at 103.1 92.19 0)
+		(layer "F.Cu")
+		(uuid "eae2398a-fd8c-4650-9ef7-b4170625ffa2")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 97.81 110.430057)
 		(end 97.81 111.82)
